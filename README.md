@@ -1,6 +1,6 @@
 # Convolutional Autoencoder for Image Denoising
 
-## AIM
+## AIM:
 
 To develop a convolutional autoencoder for image denoising application.
 
@@ -16,9 +16,7 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 ![image](https://github.com/Sriram8452/convolutional-denoising-autoencoder/assets/118708032/b548e8f2-6a1c-4f3b-9e31-4147fc967929)
 
 
-
-
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -139,7 +137,7 @@ plt.show()
 ```
 
 
-## OUTPUT
+## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
